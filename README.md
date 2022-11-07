@@ -1,4 +1,4 @@
-# 4D-image-processing-bundle - IN CONSTRUCTION
+# Encyclopedia of 4D/3D images processing - UNDER CONSTRUCTION
 Encyclopedia of python helper scripts to make 3D and 4D images processing easy.
 
 ## 💡 Background
