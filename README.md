@@ -1,4 +1,4 @@
-# Encyclopedia of 4D/3D images processing
+# Encyclopedia of 4D/3D/2D images analysis
 Welcome to the encyclopedia of helper scripts for handling, processing and analysing 2D, 3D and 4D images. The repository is under construction. Feel free to send me an email at antoine_ruzette AT hms harvard edu if you wish to contribute. 
 
 ## 💡 Background
