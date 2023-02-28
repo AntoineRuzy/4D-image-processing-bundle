@@ -9,3 +9,6 @@ The idea of this repository is to facilitate sharing the gigantic amount of amaz
 ## 🔗 Contents
 * [4D-3D time and z slicer](https://github.com/antoineruzette/images-processing-made-easy/blob/main/src/4D_to_2D_slicer.ipynb)
 * [Random generator of nuclei masks](https://github.com/antoineruzette/images-processing-made-easy/blob/main/src/random_nuclei_mask_generator.ipynb)
+
+## Contribute
+- idea: simply take advantage of pull requests
